@@ -72,6 +72,12 @@ public static void main(String[] args) {
 	LinkedHashMap<String, String> linkedHashMap = list.get(1);
 	String string4 = linkedHashMap.get("location");
 	System.out.println(string4);
+	System.out.println(string);
+	System.out.println(string);
+	System.out.println(string);
+	System.out.println(string);
+	System.out.println(string);
+	System.out.println(string);
 	
 	
 	
